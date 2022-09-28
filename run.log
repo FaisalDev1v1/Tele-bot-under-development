@@ -1,0 +1,2 @@
+2022-09-25 21:30:35,864 - weather-telegram - INFO - Getting updates
+2022-09-25 21:30:35,867 - weather-telegram - DEBUG - URL: https://api.telegram.org/botAPI_KEY/getUpdates?timeout=None
